@@ -1,0 +1,20 @@
+to run jupyter notebook open anaconda prompt and run the following commands
+-------------------------------------------------------------------------------
+cd C:\Users\Pranay Neela\OneDrive\Desktop\Project\NetworkIntrusionDetectionSystem\Notebook
+conda activate project
+jupyter notebook
+
+
+
+to run django web application open anaconda prompt and run the following commands
+-------------------------------------------------------------------------------
+cd C:\Users\Pranay Neela\OneDrive\Desktop\Project\NetworkIntrusionDetectionSystem
+conda activate project
+python manage.py runserver
+
+
+open browser and run the following url (127.0.0.1:8000)
+
+libraries used
+---------------------
+pandas numpy matplotlib seaborn jupyter notebook scikit-learn tensorflow==1.14.0 keras==2.2.5 django imblearn
