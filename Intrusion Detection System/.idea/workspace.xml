@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="125939a6-abdf-45dc-a2d5-6a1f4d26a5ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2g584Lg2hWfGSYUK9UIvarsRtxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/assets/images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2020 Projects\2020_Pycharm_Projects\2024\NetworkIntrusionDetectionSystem\static\assets\images" />
+      <recent name="C:\Users\nagas\PycharmProjects\NetworkIntrusionDetectionSystem\templates" />
+      <recent name="C:\Users\nagas\PycharmProjects\NetworkIntrusionDetectionSystem\static" />
+      <recent name="C:\Users\nagas\PycharmProjects\NetworkIntrusionDetectionSystem" />
+      <recent name="C:\Users\nagas\PycharmProjects\NetworkIntrusionDetectionSystem\intrusiondetection" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NetworkIntrusionDetectionSystem" type="Python.DjangoServer" factoryName="Django server">
+      <module name="NetworkIntrusionDetectionSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="NetworkIntrusionDetectionSystem.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="125939a6-abdf-45dc-a2d5-6a1f4d26a5ce" name="Default Changelist" comment="" />
+      <created>1714975886344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714975886344</updated>
+      <workItem from="1714975916633" duration="595000" />
+      <workItem from="1715062329739" duration="1813000" />
+      <workItem from="1715064173099" duration="4051000" />
+      <workItem from="1715073705714" duration="2769000" />
+      <workItem from="1715077107522" duration="929000" />
+      <workItem from="1715079749845" duration="1619000" />
+      <workItem from="1715081606998" duration="20000" />
+      <workItem from="1715082616050" duration="1017000" />
+      <workItem from="1715083653211" duration="497000" />
+      <workItem from="1715144762219" duration="1255000" />
+      <workItem from="1715149709947" duration="1000000" />
+      <workItem from="1715151667986" duration="1782000" />
+      <workItem from="1715153473677" duration="595000" />
+      <workItem from="1715155700239" duration="2048000" />
+      <workItem from="1715157776476" duration="444000" />
+      <workItem from="1715229002356" duration="1681000" />
+      <workItem from="1715230808215" duration="1358000" />
+      <workItem from="1715248740644" duration="600000" />
+      <workItem from="1715251401987" duration="1325000" />
+      <workItem from="1715254071373" duration="2527000" />
+      <workItem from="1715326042407" duration="331000" />
+      <workItem from="1715417340582" duration="834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
